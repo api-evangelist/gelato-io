@@ -1,0 +1,57 @@
+{
+    "name": "Gelato.io",
+    "description": "A tool for creating and maintaining excellent Developer Portals and API or Technical Documentation",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18858-gelato-io.jpg",
+    "tags": [
+        "api service provider",
+        "design",
+        "documentation",
+        "have api",
+        "interesting",
+        "management",
+        "portals"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/gelato-io\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Gelato.io",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18858-gelato-io.jpg",
+            "humanURL": "https:\/\/gelato.io\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/gelato-io-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/gelato-io"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/meta.gelato.io\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/gelatodocs"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/mashape"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/gelato.io\/"
+        }
+    ]
+}
